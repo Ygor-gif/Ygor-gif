@@ -1,21 +1,9 @@
-<div style="background-color: black; display: flex; flex-direction: column; width: 860px; border-radius: 20px; overflow: hidden;">
-  <div style="background-color: black; width: 80px; height: 80px; border-radius: 50%; overflow: hidden; position: relative; margin: 10px auto 0;">
-    <img src="URL_DA_SUA_IMAGEM" alt="Perfil" style="width: 100%; height: 100%; object-fit: cover;">
-  </div>
-  <div style="margin-top: 10px; color: white; text-align: center; padding: 10px;">Seu Nome</div>
-  <div style="flex: 1; display: flex; align-items: center; padding-left: 20px; color: white;">
-    <!-- Conteúdo do lado direito do quadrado -->
-    <div>
-      <h3>💻 Tech Stack:</h3>
-      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-      <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku">
-      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-      <img src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white" alt="Qt">
-      <h3>📊 GitHub Stats:</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=zRitsu&theme=omni&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zRitsu&theme=omni&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
-      <h3>🏆 GitHub Trophies</h3>
-      <img src="https://github-profile-trophy.vercel.app/?username=zRitsu&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
-    </div>
+<div style="background-color: black; width: 230px; padding: 40px; border-radius: 10px; text-align: left; display: flex; align-items: center;">
+  <img src="https://media.discordapp.net/attachments/1151641382470037614/1159231826406146049/74823568-_1_.png?ex=653045c4&is=651dd0c4&hm=9cf3daeaf46c521c9e04248319890be191c0c2703df27b7b4e454cf84b3a9712&=" alt="Perfil" style="width: 80px; height: 80px; border: 3px solid #FF0000; border-radius: 50%; object-fit: cover; margin-right: 10px; font-weight: bold;">
+  <div style="color: white; font-family: 'Calibri', sans-serif;">
+    <p style="font-size: 16px; margin: 0;"><strong>zWesh <img src="https://cdn3.emoji.gg/emojis/2229-rules-badge.png" alt="Badge 1" style="width: 16px; height: 16px; margin-right: 5px;">  <img src="https://cdn3.emoji.gg/emojis/1483-forum-badge.png" alt="Badge 1" style="width: 16px; height: 16px; margin-right: 5px;"></strong></p>
+    <img src="https://cdn3.emoji.gg/emojis/6870-gojo-eyes.gif" alt="Badge 1" style="width: 16px; height: 16px; margin-right: 5px;">
+    <img src="https://cdn3.emoji.gg/emojis/3070-hymoji-6443-foxxowow.gif" alt="Badge 2" style="width: 16px; height: 16px; margin-right: 5px;">
+    <!-- Adicione mais badges conforme necessário -->
   </div>
 </div>
